@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">地震预警卫士</string>
+    <string name="device_admin_description">启用设备管理器权限以获得应用后台高级守护抗杀保活，哪怕锁屏和后台休眠状态也可以即时接收到破坏性横波灾害预报。</string>
+</resources>

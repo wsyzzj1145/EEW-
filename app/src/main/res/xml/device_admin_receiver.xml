@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<device-admin xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-policies>
+        <!-- 该功能仅用于实现极强后台驻留，防一键清理，不设定任何强制锁定或屏幕密码清除的越权策略 -->
+    </uses-policies>
+</device-admin>

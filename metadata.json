@@ -1,0 +1,6 @@
+{
+  "name": "地震预警卫士",
+  "description": "提供实时中国地震预警与历史地震目录查询，并且支持设置家的位置来实现精准的本地预估烈度计算与超限悬浮窗强预警。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
